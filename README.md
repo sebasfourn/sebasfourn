@@ -3,7 +3,7 @@
 **About me:**
 - 👨‍💻 Full Stack Developer
 - 🎯 Built [Farmland](https://github.com/sebasfourn/farmland/) app in a team of 4 in only 2 weeks
-- ❤️ I love business and learn new things every day
+- ❤️ I love sports and learn new things every day
 - 😀 Connect with me on LinkedIn [here](https://www.linkedin.com/in/sebasfourn/)
 
 `Languages and Tools:`
