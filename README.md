@@ -3,7 +3,7 @@
 **About me:**
 - 👨‍💻 Software Developer
 - 🎯 Built [farmland](https://github.com/sebasfourn/farmland/) in only 2 weeks
-- ☀️ I love sports and learning new things every day
+- ☀️ I love learning new things every day
 - 😎 Connect with me on LinkedIn [here](https://www.linkedin.com/in/sebasfourn/)
 
 `Languages and Tools:`
