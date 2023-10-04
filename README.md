@@ -2,7 +2,7 @@
 
 **About me:**
 - 👨‍💻 Software Developer
-- 🎯 Built [Farmland](https://github.com/sebasfourn/farmland/) app in only 2 weeks
+- 🎯 Built [farmland](https://github.com/sebasfourn/farmland/) in only 2 weeks
 - ☀️ I love sports and learning new things every day
 - 😎 Connect with me on LinkedIn [here](https://www.linkedin.com/in/sebasfourn/)
 
