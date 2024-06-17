@@ -1,7 +1,7 @@
 ### Hi there, I'm Seb! 👋
 
 **About me:**
-- 👨‍💻 Full Stack Developer at <a href="https://www.kimoby.com/" target="_blank">Kimoby</a>
+- 👨‍💻 Full Stack Developer at [Kimoby](https://www.kimoby.com/)
 - 😎 Connect with me on LinkedIn [here](https://www.linkedin.com/in/sebasfourn/)
 
 
