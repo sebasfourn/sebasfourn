@@ -2,7 +2,6 @@
 
 **About me:**
 - 👨‍💻 Full Stack Developer at [Kimoby](https://www.kimoby.com/)
-- ☀️ I love learning new things every day
 - 😎 Connect with me on LinkedIn [here](https://www.linkedin.com/in/sebasfourn/)
 
 `Languages and Tools:`
